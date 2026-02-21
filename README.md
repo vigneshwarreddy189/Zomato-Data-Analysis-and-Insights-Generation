@@ -60,11 +60,11 @@ Performed EDA to understand data patterns and distributions:
 
  Detailed EDA visuals and explanations are available in the Exploratory Data Analysis PDF
 
-##Power BI Dashboards
+## Power BI Dashboards
 
 ### Restaurant Overview Dashboard
 
-###Key KPIs:
+Key KPIs:
 
 1. Total Restaurants: 8508
 
@@ -74,7 +74,7 @@ Performed EDA to understand data patterns and distributions:
 
 4. Total Votes: 8M
 
-###Insights Covered:
+### Insights Covered:
 
 1. Restaurants by city & locality
 
